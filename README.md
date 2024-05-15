@@ -1,6 +1,4 @@
 # Beginners-Problems-6
-Beginners Problems on Subroutines
-
 # Subroutines-Beginners
 Beginners Problems on Subroutines
 
